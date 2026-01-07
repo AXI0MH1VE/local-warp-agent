@@ -1,0 +1,29 @@
+# Core Dependencies
+ollama>=0.3.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+rich>=13.7.0
+
+# Agent Framework
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Tools & Utilities
+gitpython>=3.1.40
+watchdog>=3.0.0
+
+# Terminal UI
+textual>=0.47.0
+prompt-toolkit>=3.0.43
+
+# Code Analysis
+ast-grep>=0.15.0
+tree-sitter>=0.20.4
+
+# HTTP & API
+requests>=2.31.0
+httpx>=0.25.2
+
+# Testing (Optional)
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
